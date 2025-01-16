@@ -1,1 +1,1 @@
-# Classification_automatique_des_biens_de_consommation
+# Classification automatique des biens de consommation
