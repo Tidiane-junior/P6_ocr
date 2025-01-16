@@ -1,2 +1,1 @@
-# P6_ocr
-Classification automatique des biens de consommation
+# P6_Classification_automatique_des_biens_de_consommation
