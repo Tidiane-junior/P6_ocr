@@ -1,1 +1,1 @@
-# P6_Classification_automatique_des_biens_de_consommation
+# Classification_automatique_des_biens_de_consommation
